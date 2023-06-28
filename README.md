@@ -16,7 +16,7 @@
 <div align="center"> 
  
  <div style="display: inline_block"><br/>
-<a href = "mailto:cmp.1a.alexandraharumiyara@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:cmp.1a.alexandraharumiyara@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-FF4500?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/meu_linkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
